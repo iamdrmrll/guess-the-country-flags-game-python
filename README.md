@@ -4,6 +4,10 @@
 A simple game I created as my project in Python Subject.\
 It has a database, login system and scoring system.
 
+<p align=center>
+  <img src=https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hfp940sqrvav5ss4fbjx.png>
+</p>
+
 
 ## Table of Contents
 
@@ -34,7 +38,7 @@ Project is created with:
 To deploy this project run
 
 ```bash
-  python finals.py
+python finals.py
 ```
 
 
